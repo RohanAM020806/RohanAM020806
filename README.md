@@ -37,7 +37,7 @@ Smart resume analyzer and builder that uses AI to generate feedback, improve phr
 
 ## 🎯 What I’m Currently Exploring
 
-I'm diving deeper into **AI-powered web applications**, focusing on **FastAPI + Node.js backends**, **machine-learning **.  
+I'm diving deeper into **AI-powered web applications**, focusing on **FastAPI + Node.js backends**, **machine-learning**.  
 My goal is to build **secure, intelligent full-stack platforms** that make technology more human-centered.
 
 
