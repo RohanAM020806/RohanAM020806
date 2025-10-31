@@ -61,6 +61,7 @@ Always open to collaboration, learning, and building projects that create real-w
 
 ---
 
-## 🎉 Holopin
 
-[![An image of @rohanam020806's Holopin badges](https://holopin.me/rohanam020806)](https://holopin.io/@rohanam020806)
+
+
+
