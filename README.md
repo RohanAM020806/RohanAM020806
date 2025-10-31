@@ -56,7 +56,7 @@ Always open to collaboration, learning, and building projects that create real-w
 
 ## 📊 Statistics
 
-![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohanAM020806&show_icons=true&theme=tokyonight)  
+![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohanAM020806&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanAM020806&layout=compact&theme=tokyonight)
 
 ---
