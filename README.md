@@ -17,7 +17,7 @@ SQL, MongoDB
 Git & GitHub  
 
 **Tools:**  
-Vercel, Postman, Render, Figma, Linux  
+Vercel. 
 
 ---
 
@@ -32,14 +32,15 @@ Personal developer portfolio showcasing my projects, achievements, and contact d
 **📄 Resume Runway**  
 Smart resume analyzer and builder that uses AI to generate feedback, improve phrasing, and match resumes to job roles effectively.
 
+**⚙️ IntelliSphere**  
+College portal with user authentication, dynamic timetable fetching, marks display, and backend data integration via Node.js.
 
 ---
 
 ## 🎯 What I’m Currently Exploring
 
-I'm diving deeper into **AI-powered web applications**, focusing on **FastAPI + Node.js backends**, **machine-learning**.  
+I'm diving deeper into **AI-powered web applications**, focusing on **FastAPI + Node.js backends** and **machine-learning deployment**.  
 My goal is to build **secure, intelligent full-stack platforms** that make technology more human-centered.
-
 
 ---
 
@@ -56,12 +57,10 @@ Always open to collaboration, learning, and building projects that create real-w
 
 ## 📊 Statistics
 
-![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohanAM020806&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanAM020806&layout=compact&theme=tokyonight)
-
----
 
 
+![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohanAM020806&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanAM020806&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 
-
+Thank you for visiting — I'm always open to collaboration and new projects. 🚀
