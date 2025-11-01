@@ -32,8 +32,6 @@ Personal developer portfolio showcasing my projects, achievements, and contact d
 **📄 Resume Runway**  
 Smart resume analyzer and builder that uses AI to generate feedback, improve phrasing, and match resumes to job roles effectively.
 
-**⚙️ IntelliSphere**  
-College portal with user authentication, dynamic timetable fetching, marks display, and backend data integration via Node.js.
 
 ---
 
