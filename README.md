@@ -57,8 +57,8 @@ Always open to collaboration, learning, and building projects that create real-w
 
 
 
-![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohanAM020806&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanAM020806&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohanAM2006&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanAM2006&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 
 Thank you for visiting — I'm always open to collaboration and new projects. 🚀
