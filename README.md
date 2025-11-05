@@ -48,7 +48,7 @@ Always open to collaboration, learning, and building projects that create real-w
 **Let’s connect and innovate together!**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rohan-a-m-0382a2324/)  
-- 🌐 [GitHub](https://github.com/RohanAM020806)  
+- 🌐 [GitHub](https://github.com/RohanAM2006)  
 - ✉️ **rohan02aug@gmail.com**
 
 ---
