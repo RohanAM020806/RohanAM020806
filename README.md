@@ -8,7 +8,7 @@ I'm a **Full Stack Developer** and **AI–Tech enthusiast** passionate about bui
 ## 🔧 Technologies & Skills
 
 **Languages & Frameworks:**  
-Java, C++, Python, JavaScript, React, Node.js, Express.js, Next.js, FastAPI, Tailwind CSS, Bootstrap CSS  
+Java, C++,C, Python, JavaScript, React, Node.js, Express.js, Next.js, FastAPI, Tailwind CSS, Bootstrap CSS  
 
 **Databases:**  
 SQL, MongoDB  
