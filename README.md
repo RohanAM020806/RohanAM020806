@@ -11,7 +11,7 @@ I'm a **Full Stack Developer** and **AI–Tech enthusiast** passionate about bui
 Java, C++,C, Python, JavaScript, React, Node.js, Express.js, Next.js, FastAPI, Tailwind CSS, Bootstrap CSS  
 
 **Databases:**  
-SQL, MongoDB  
+SQL, MongoDB ,Supabase 
 
 **Version Control:**  
 Git & GitHub  
@@ -53,12 +53,16 @@ Always open to collaboration, learning, and building projects that create real-w
 
 ---
 
-## 📊 Statistics
+
+
+## 📊 GitHub Statistics
+
+![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohanAM5505&show_icons=true&theme=tokyonight&count_private=true&v=1)
+
+<br>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanAM5505&layout=compact&theme=tokyonight&v=1)
 
 
 
-![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohanAM5505&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanAM5505&layout=compact&theme=tokyonight&cache_seconds=1800)
 
-
-Thank you for visiting — I'm always open to collaboration and new projects. 🚀
