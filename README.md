@@ -23,14 +23,21 @@ Vercel.
 
 ## 🚀 Projects
 
+**LostLink - Al-Powered Lost & Found System**
+
+A smart platform to help users report and find lost items.
+
+
+
+https://lostlink-03c3.onrender.com/index.html
+
 **🩺 HealSense**  
 AI-powered healthcare platform integrating consent management, vitals tracking, multilingual disease prediction, and secure blockchain-based record handling.
 
 **💼 Portfolio Website**  
 Personal developer portfolio showcasing my projects, achievements, and contact details — built with React + Tailwind CSS.
 
-**📄 Resume Runway**  
-Smart resume analyzer and builder that uses AI to generate feedback, improve phrasing, and match resumes to job roles effectively.
+
 
 
 ---
