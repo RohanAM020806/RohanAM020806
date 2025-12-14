@@ -64,7 +64,7 @@ Always open to collaboration, learning, and building projects that create real-w
 
 ## 📊 GitHub Statistics
 
-![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohanAM5505&show_icons=true&theme=tokyonight&count_private=true&v=1)
+
 
 <br>
 
